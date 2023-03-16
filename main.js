@@ -366,7 +366,6 @@ function testArrayOfObjectsMethods() {
   console.log(getNextVideoTrainings(lastMemberVideoTrainingData, 4, date/*new Date()*/));
 }
 
-console.log('all clean');
 //testArrayOfObjectsMethods();
 // testFullNameSplitter();
 //testPasswordGenerator();
