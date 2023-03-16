@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://youtu.be/Bt289hq2T8k",
+    "description": "Why Indonesia is building a new capital? Where it will be situated and why is this a greatest national project of all time?",
+    "_id": "f3e08238-00b5-47d7-9fcb-aa1e030eddda",
+    "_owner": "f826187f-a626-4bd7-bc39-e40dcb678893",
+    "_createdDate": "2023-02-26T02:34:16.406Z",
+    "_updatedDate": "2023-02-26T02:35:21.025Z",
+    "order": 5,
+    "title": "New capital of Indonesia"
+  },
+  {
+    "url": "https://youtu.be/pTJpEAghLyE",
+    "description": "Henry \nKissinger is a great american politician who influenced the outcomes of the cold war greatly!",
+    "_id": "65b75dc2-a444-4296-a1d3-ac6710557db1",
+    "_owner": "f826187f-a626-4bd7-bc39-e40dcb678893",
+    "_createdDate": "2023-02-26T02:33:20.715Z",
+    "_updatedDate": "2023-02-26T02:34:12.001Z",
+    "order": 6,
+    "title": "Lex Friedman about Henry Kissenger"
+  },
+  {
+    "url": "https://youtu.be/aNxj5Id_UWk",
+    "description": "Did you know anything about Iran and its history? Here is your chance!",
+    "_id": "b25ee044-443d-468f-a22d-2fb2872ecb84",
+    "_owner": "f826187f-a626-4bd7-bc39-e40dcb678893",
+    "_createdDate": "2023-02-26T02:32:03.236Z",
+    "_updatedDate": "2023-02-26T02:32:58.172Z",
+    "order": 4,
+    "title": "Iran. History briefly"
+  },
+  {
+    "url": "https://youtu.be/BFYXFlpBC6s",
+    "description": "Историческая сага об Ататюрке и младотурках",
+    "_id": "3ef9e317-dfed-42a8-851e-7d26ac93e52b",
+    "_owner": "f826187f-a626-4bd7-bc39-e40dcb678893",
+    "_createdDate": "2023-02-26T02:30:53.162Z",
+    "_updatedDate": "2023-02-26T02:31:34.234Z",
+    "order": 3,
+    "title": "Османская империя"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nXXpzMn3Aco",
+    "description": "The link to YouTube video training",
+    "_id": "87ba5278-646a-41d3-9513-9cc54438ffaa",
+    "_owner": "f826187f-a626-4bd7-bc39-e40dcb678893",
+    "_createdDate": "2023-02-13T04:01:59.665Z",
+    "_updatedDate": "2023-02-13T04:02:32.551Z",
+    "order": 2,
+    "title": "Basketball Video Training"
+  },
+  {
+    "url": "https://video.wixstatic.com/video/f82618_e3861515a5fe42e6a1fc27f9d11353bd/720p/mp4/file.mp4",
+    "description": "The best training to start with",
+    "_id": "28a5d36f-9101-4443-bea9-f85f6152e0c4",
+    "_owner": "f826187f-a626-4bd7-bc39-e40dcb678893",
+    "_createdDate": "2023-02-13T03:53:45.928Z",
+    "_updatedDate": "2023-02-13T04:00:45.645Z",
+    "order": 1,
+    "title": "First Training"
+  }
+]

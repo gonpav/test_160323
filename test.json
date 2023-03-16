@@ -1,0 +1,33 @@
+{
+  "merchantAccount": "www_instagram_com_dc45a",
+  "orderReference": "WFP - SOC - 7535627 - 63ecb40ae40c9",
+  "merchantSignature": "5c647ce52a2e5efa26fbc613df1f223e",
+  "amount": 25,
+  "currency": "UAH",
+  "authCode": "027404",
+  "email": "gonpav @gmail.com",
+  "phone": "380977780675",
+  "createdDate": 1676456970,
+  "processingDate": 1676456974,
+  "cardPan": "",
+  "cardType": "MasterCard",
+  "issuerBankCountry": "Ukraine",
+  "issuerBankName": "COMMERCIAL BANK PRIVATBANK",
+  "recToken": "",
+  "transactionStatus": "Approved",
+  "reason": "Ok",
+  "reasonCode": 1100,
+  "fee": 0.55,
+  "paymentSystem": "applePay",
+  "acquirerBankName": "WayForPay",
+  "cardProduct": "debit",
+  "clientName": null,
+  "products": [
+    {
+      "name": "День тренувань Довільна або фіксована сума",
+      "price": 25,
+      "count": 1
+    }
+  ],
+  "invoiceTitle": "День тренувань Довільна або фіксована сума"
+}
