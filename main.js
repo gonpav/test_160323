@@ -366,15 +366,7 @@ function testArrayOfObjectsMethods() {
   console.log(getNextVideoTrainings(lastMemberVideoTrainingData, 4, date/*new Date()*/));
 }
 
-const channelId = '23424352341';
-const section_url = `А какие же условия участия? Всё очень просто:\n\n` +
-`1. Зайти на  канал челенджа <#${channelId}>\n\n` + 
-`2. Зарегестрироваться нажав на кнопку \`Регистрация\` внизу\n\n` + 
-`3. Выиграть как можно больше игр за выходные.  :gun:\n\n` +  
-`Всё супер просто!\n\n` + 
-`Ну что, удачи тогда всем, всех обняв 🤍 :rocket: `;
-
-console.log(section_url);
+console.log('all clean');
 //testArrayOfObjectsMethods();
 // testFullNameSplitter();
 //testPasswordGenerator();
